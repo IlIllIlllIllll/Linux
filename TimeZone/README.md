@@ -1,4 +1,4 @@
-Linux - TimeZone
+## Linux - TimeZone
 ```
 echo "export TZ=<Region>/<City>" >> /etc/profile
 ```
