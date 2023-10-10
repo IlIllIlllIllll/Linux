@@ -1,6 +1,6 @@
 Linux - TimeZone
 ```
-echo "export TZ=<Region>/City" >> /etc/profile
+echo "export TZ=<Region>/<City>" >> /etc/profile
 ```
 
 ```
