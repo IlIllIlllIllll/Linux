@@ -12,3 +12,4 @@ echo 'AuthenticationMethods password,publickey' >> /etc/ssh/sshd_config
 ```
 systemctl restart sshd
 ```
+> Authentication Methods in SSH - https://www.baeldung.com/linux/ssh-authentication-methods
