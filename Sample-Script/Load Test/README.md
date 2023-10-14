@@ -8,6 +8,5 @@ while true;
 do
     curl -sS http://$ALB_DNS/health
     echo " "
-    sleep 1
 done
 ```
